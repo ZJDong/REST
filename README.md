@@ -1,6 +1,7 @@
 # REST
 This is a python project impleting code Cyclomatic complexity calculating for a github respository. It's runned as follow steps:
 
+
   1.start myManager.py
 
   2.start myWorker.py
@@ -16,6 +17,8 @@ This is a python project impleting code Cyclomatic complexity calculating for a 
   7.The manager will return average cyclomatic complexity of the respository
 
 
+
 This is task 3 for module CS7NS1.
+
 
 My name is Zhijian Dong, student number is 17313074
